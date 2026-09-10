@@ -1,5 +1,5 @@
 {
-  "package_version": "1.3",
+  "package_version": "1.4",
   "layout": "flat",
   "canonical_directory": "D:\\dev\\Documents\\ChatGPT\\高数 2",
   "global_alias": "C:\\Users\\欧阳佳杰\\.codex\\math-learning",
@@ -87,13 +87,13 @@
     },
     {
       "path": "21_多元微积分_水平检测卷.md",
-      "bytes": 3760,
-      "sha256": "ea4ad728bf7ad000e014ca04155faeb215254a8d633ed29241006f36d4a1d740"
+      "bytes": 3917,
+      "sha256": "ed2d367aaaf3f409394df9f8ebdd846fcd59a1e29c40ee43d5c44dc78d8fe43a"
     },
     {
       "path": "30_考研数学一_当前学习状态.md",
-      "bytes": 3789,
-      "sha256": "b9cae8bbe09d8ad37aacb535fc26fd30ada96228a96c715e59dfbbdca392b460"
+      "bytes": 3906,
+      "sha256": "7d6a91bdce67f62d4c5f6d0e0dbe3262c87b8b6a6298f194c5800ccdd3dd5ab3"
     },
     {
       "path": "31_水平检测_作答后教学衔接.md",
@@ -102,8 +102,8 @@
     },
     {
       "path": "32_水平检测_外部审查交接.md",
-      "bytes": 36060,
-      "sha256": "0e8a63644b462c38b37fff61198bc8073dd115ce1c889d8cb9541089af4617e9"
+      "bytes": 37889,
+      "sha256": "80bc1085941b4fafa2bd6d1beb39a2bf04bde50a3c9a5b83d00ba6245ac5302a"
     },
     {
       "path": "40_跨AI任务与反馈交接.md",
@@ -112,8 +112,8 @@
     },
     {
       "path": "90_考研数学一_质量风险与维护记录.md",
-      "bytes": 4176,
-      "sha256": "2abb0f4a7a68723c061a44e21146677fddb52a0502e36be3ae239a781351cd84"
+      "bytes": 5200,
+      "sha256": "bf6b6d5a6373d5c38efd5a5f79dc1222c904f2cf327543136a7f4a3859cf777e"
     },
     {
       "path": "91_出题协议_修订记录.md",
@@ -122,8 +122,8 @@
     },
     {
       "path": "99_工作包文件与版本清单.md",
-      "bytes": 5418,
-      "sha256": "3cdd4b6200d110a38349b2f3e342e3bebaa59b81c839749d96374615c4e8c964"
+      "bytes": 5546,
+      "sha256": "eb3470c92a6e7a5c70c34d556d04e6daea391516e470601217ec8656a5aea787"
     },
     {
       "path": "方法族-高数-多元微分.md",
@@ -137,8 +137,8 @@
     },
     {
       "path": "教师用_多元微积分水平检测_参考与证据.md",
-      "bytes": 15906,
-      "sha256": "7e6478aab82ed9732bebc2f7eea2b9336f7e868b5a0256a0b00356fcdb6ab1cb"
+      "bytes": 18646,
+      "sha256": "203cbaf4f0d9e85b993903759e6f450dc1c21b0bf20f54744377e660c48b59ba"
     },
     {
       "path": "全局入口.md",
@@ -167,8 +167,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 913,
-      "sha256": "076103c24e7235982af714e0202b1abfbfe85edde44c7e945bf33b295692fdee"
+      "bytes": 1106,
+      "sha256": "9e7c13df7a77ce056f0727650d3049618f2267a1dd8e7d6011ebba3d3aef4e33"
     }
   ],
   "protocol_versions": {
@@ -181,5 +181,6 @@
     "user_authorization": "允许不等待",
     "research_document_read": false
   },
-  "protocol_revision_backup": "C:\\Users\\欧阳佳杰\\.codex\\config-backups\\math-protocol-v110-20260906"
+  "protocol_revision_backup": "C:\\Users\\欧阳佳杰\\.codex\\config-backups\\math-protocol-v110-20260906",
+  "revision_note": "2026-09-10 external independent review of MV26 placement items; stems of MV26-02/09/13 revised, teacher key and Stage A packages synced; Validation Stage B, route-family search and Fit not performed"
 }
