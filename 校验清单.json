@@ -1,0 +1,185 @@
+{
+  "package_version": "1.3",
+  "layout": "flat",
+  "canonical_directory": "D:\\dev\\Documents\\ChatGPT\\高数 2",
+  "global_alias": "C:\\Users\\欧阳佳杰\\.codex\\math-learning",
+  "global_alias_type": "Junction",
+  "coverage": "general mathematics workflows and current multivariable calculus plan",
+  "official_protocol_edits_applied": true,
+  "missing_research_document": "GPT_数学解答教学输出规范_研究依据版.md",
+  "recovery_directory": "C:\\Users\\欧阳佳杰\\.codex\\config-backups\\math-flat-20260906",
+  "obsolete_copies": "moved_out_of_active_directory_to_recovery",
+  "sources": [
+    {
+      "path": "01_高等数学_总入口.md",
+      "original_repository_path": "01_高等数学_总入口.md",
+      "git_ref": "96c1fdf9ff0950297586719e8b24d37b93159244",
+      "git_blob": "885f66699592ef46b434bf5aeb3d03820a20523e",
+      "local_path_adaptation": true
+    },
+    {
+      "path": "10_高等数学_资料与覆盖索引.md",
+      "original_repository_path": "分析/10_高等数学_资料与覆盖索引.md",
+      "git_ref": "afd6c989074d9d6b5c6e0a251c89030105e34885",
+      "git_blob": "f226919cbdb1451df2131787a535a61e99c70796",
+      "local_path_adaptation": false
+    },
+    {
+      "path": "方法族-高数-重积分.md",
+      "original_repository_path": "分析/方法族-高数-重积分.md",
+      "git_ref": "afd6c989074d9d6b5c6e0a251c89030105e34885",
+      "git_blob": "b372ecd4558c2ba2c2302c7b36f2766c45ee7d71",
+      "local_path_adaptation": false
+    },
+    {
+      "path": "方法族-高数-多元微分.md",
+      "original_repository_path": "分析/方法族-高数-多元微分.md",
+      "git_ref": "521d6d6",
+      "git_blob": "a7ffc7006b06b73eb7bdbe006c1f4a0e05ab3e2c",
+      "local_path_adaptation": false
+    }
+  ],
+  "files": [
+    {
+      "path": "00_考研数学一_总入口.md",
+      "bytes": 9079,
+      "sha256": "9b31f4e0244a5428bce0a77accac7e5a3f60ecdb8b196766dd950a7d1d5460c4"
+    },
+    {
+      "path": "00_数学教学_启动入口.md",
+      "bytes": 15553,
+      "sha256": "462e3507cef4b09460f30fcfc785fb053e04da2aa00956a4014ebefadb23ff2e"
+    },
+    {
+      "path": "00_先读我_使用说明.md",
+      "bytes": 4905,
+      "sha256": "8bcc5b1ad8cf6b7345acf793cac92210737d7ad872c849254abaaffc0134290d"
+    },
+    {
+      "path": "01_高等数学_总入口.md",
+      "bytes": 25179,
+      "sha256": "355ea44a5270c275ff3286f1ffb0eb34e754a0a2b42b4e5f06342edeedac5b35"
+    },
+    {
+      "path": "01_数学_对话教学.md",
+      "bytes": 18934,
+      "sha256": "d9be89e7376dbc4112c35eecc86abe3edd152bce11cfdb6db0f0b015acf96bf5"
+    },
+    {
+      "path": "02_数学_答案检查与照片纠错.md",
+      "bytes": 11279,
+      "sha256": "34a650abf5472ed394f0492fcd140aea64f707adb8acbf967c1218e71cb27915"
+    },
+    {
+      "path": "03_数学_自适应出题.md",
+      "bytes": 13735,
+      "sha256": "e6c7a7d9bbf03441bb062d265161196b4a755bd10c547605f08da1e344219411"
+    },
+    {
+      "path": "10_高等数学_资料与覆盖索引.md",
+      "bytes": 29704,
+      "sha256": "167e1d1f1db626ab0519f9b4b224fbebf20e69669d6e115ad3f6e7e3d11ef68c"
+    },
+    {
+      "path": "20_多元微积分复习路线.md",
+      "bytes": 13773,
+      "sha256": "50df752ee1b9e1a7e0e815e0508c4ad6a9b4d17d0f5975e6f605a879ebcdbfff"
+    },
+    {
+      "path": "21_多元微积分_水平检测卷.md",
+      "bytes": 3760,
+      "sha256": "ea4ad728bf7ad000e014ca04155faeb215254a8d633ed29241006f36d4a1d740"
+    },
+    {
+      "path": "30_考研数学一_当前学习状态.md",
+      "bytes": 3789,
+      "sha256": "b9cae8bbe09d8ad37aacb535fc26fd30ada96228a96c715e59dfbbdca392b460"
+    },
+    {
+      "path": "31_水平检测_作答后教学衔接.md",
+      "bytes": 3923,
+      "sha256": "a34eb834692d6c012669e06129d1724f68bc4663b6193a74d0ba758f1276103d"
+    },
+    {
+      "path": "32_水平检测_外部审查交接.md",
+      "bytes": 36060,
+      "sha256": "0e8a63644b462c38b37fff61198bc8073dd115ce1c889d8cb9541089af4617e9"
+    },
+    {
+      "path": "40_跨AI任务与反馈交接.md",
+      "bytes": 5649,
+      "sha256": "cf0bfcc04611e5d3d57ee7a169a5a8cb7cf61ea04a4a1e64b885f7c3a4ee0080"
+    },
+    {
+      "path": "90_考研数学一_质量风险与维护记录.md",
+      "bytes": 4176,
+      "sha256": "2abb0f4a7a68723c061a44e21146677fddb52a0502e36be3ae239a781351cd84"
+    },
+    {
+      "path": "91_出题协议_修订记录.md",
+      "bytes": 4607,
+      "sha256": "6bfd7a04ed8728ceeb8e038007bea29283a0334f91bcc3d09708ba4ac43c48df"
+    },
+    {
+      "path": "99_工作包文件与版本清单.md",
+      "bytes": 5418,
+      "sha256": "3cdd4b6200d110a38349b2f3e342e3bebaa59b81c839749d96374615c4e8c964"
+    },
+    {
+      "path": "方法族-高数-多元微分.md",
+      "bytes": 125859,
+      "sha256": "5e9bc7312af5f503a93a80e90cb8a98ddfa9ead4058ad2b3b31f668f9523e730"
+    },
+    {
+      "path": "方法族-高数-重积分.md",
+      "bytes": 45161,
+      "sha256": "27f7fed7611a7ad93c591e445ad2b9a836500fe993e8982c120399243170dcbc"
+    },
+    {
+      "path": "教师用_多元微积分水平检测_参考与证据.md",
+      "bytes": 15906,
+      "sha256": "7e6478aab82ed9732bebc2f7eea2b9336f7e868b5a0256a0b00356fcdb6ab1cb"
+    },
+    {
+      "path": "全局入口.md",
+      "bytes": 2245,
+      "sha256": "f149a961ea2a5ffb2358a8e406af425b79adb06d0cf606ce852e727893efee75"
+    },
+    {
+      "path": "数学出题_共享声明集.md",
+      "bytes": 15769,
+      "sha256": "f6313026f1c3cf8ce74260349ce4fa7cbcf7a0517e308429ddeecdebede13c33"
+    },
+    {
+      "path": "数学题_Generation_Spec.md",
+      "bytes": 17262,
+      "sha256": "9a20d524d4eeb7ee3caa5255c7bcb30b8795bedf72a373b6f39151aad4f9302c"
+    },
+    {
+      "path": "数学题_Validation_Protocol.md",
+      "bytes": 25477,
+      "sha256": "a23a04f3e0d9e3aabd356a115884a3b99eb6320017a612a8a69bb526cbfca0b5"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 3337,
+      "sha256": "c543e3fe5b31282a3b4f2a85414aa60916f4b94e79eda587165cb18756d6b36c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 913,
+      "sha256": "076103c24e7235982af714e0202b1abfbfe85edde44c7e945bf33b295692fdee"
+    }
+  ],
+  "protocol_versions": {
+    "generation": "1.1.0",
+    "validation": "1.1.0",
+    "declaration_set": "MATH-ITEM-DECL-v1.0.0"
+  },
+  "research_document_waiver": {
+    "scope": "this_generation_validation_revision_only",
+    "user_authorization": "允许不等待",
+    "research_document_read": false
+  },
+  "protocol_revision_backup": "C:\\Users\\欧阳佳杰\\.codex\\config-backups\\math-protocol-v110-20260906"
+}
