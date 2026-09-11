@@ -1,5 +1,5 @@
 {
-  "package_version": "1.4",
+  "package_version": "1.5",
   "layout": "flat",
   "canonical_directory": "D:\\dev\\Documents\\ChatGPT\\高数 2",
   "global_alias": "C:\\Users\\欧阳佳杰\\.codex\\math-learning",
@@ -92,8 +92,8 @@
     },
     {
       "path": "30_考研数学一_当前学习状态.md",
-      "bytes": 3906,
-      "sha256": "7d6a91bdce67f62d4c5f6d0e0dbe3262c87b8b6a6298f194c5800ccdd3dd5ab3"
+      "bytes": 4658,
+      "sha256": "a2df12d124eadf3c88e66e30c76fc5ad2c1c3973f03e76571d5ccaa564f7af62"
     },
     {
       "path": "31_水平检测_作答后教学衔接.md",
@@ -112,8 +112,8 @@
     },
     {
       "path": "90_考研数学一_质量风险与维护记录.md",
-      "bytes": 5200,
-      "sha256": "bf6b6d5a6373d5c38efd5a5f79dc1222c904f2cf327543136a7f4a3859cf777e"
+      "bytes": 6031,
+      "sha256": "57cb1820220cd7dae68244e8e10c8256c55cd7989719887cfde8fc7101ac3236"
     },
     {
       "path": "91_出题协议_修订记录.md",
@@ -122,8 +122,8 @@
     },
     {
       "path": "99_工作包文件与版本清单.md",
-      "bytes": 5546,
-      "sha256": "eb3470c92a6e7a5c70c34d556d04e6daea391516e470601217ec8656a5aea787"
+      "bytes": 7311,
+      "sha256": "023e10088bcf80d9cc6c030111df36ab4a091e1cfd22dcb79a2342eb95154cd3"
     },
     {
       "path": "方法族-高数-多元微分.md",
@@ -167,8 +167,33 @@
     },
     {
       "path": "README.md",
-      "bytes": 1106,
-      "sha256": "9e7c13df7a77ce056f0727650d3049618f2267a1dd8e7d6011ebba3d3aef4e33"
+      "bytes": 1547,
+      "sha256": "3644739567cf607cbb3ba8f78a95932d5805740c723a75f2f664a47d130c5090"
+    },
+    {
+      "path": "22_线代空间到方程_10题.md",
+      "bytes": 4245,
+      "sha256": "0c4b779c6ee719aa7eedbe36519082f552c4d133b5c250026c3bfe84e40c24cb"
+    },
+    {
+      "path": "33_线代空间到方程_审查交接与StageA.md",
+      "bytes": 4409,
+      "sha256": "d7747eeae7f1a14e5740c3e51ff7e9604b3bd487e766993cbf4bdfc46f2627eb"
+    },
+    {
+      "path": "34_线代空间到方程_教学衔接.md",
+      "bytes": 2880,
+      "sha256": "2a448c900ce22f06073f7eae6a1c504312236b0727d27335ab5fe8007dbd825b"
+    },
+    {
+      "path": "35_线代空间到方程_验收报告.md",
+      "bytes": 14239,
+      "sha256": "522e7599b9537541ff6f410f5918d3ac109c3689afb7547e0678902c5074f2f5"
+    },
+    {
+      "path": "教师用_线代空间到方程_参考推导.md",
+      "bytes": 5692,
+      "sha256": "5bd5406851fb3767ada971bf8aaf91a98b97694b79f62e2ec1c490c015d8d54f"
     }
   ],
   "protocol_versions": {
@@ -182,5 +207,5 @@
     "research_document_read": false
   },
   "protocol_revision_backup": "C:\\Users\\欧阳佳杰\\.codex\\config-backups\\math-protocol-v110-20260906",
-  "revision_note": "2026-09-10 external independent review of MV26 placement items; stems of MV26-02/09/13 revised, teacher key and Stage A packages synced; Validation Stage B, route-family search and Fit not performed"
+  "revision_note": "2026-09-10 external independent review of MV26 placement items (stems 02/09/13 revised); 2026-09-11 linear-algebra 'space to equations' 10-item batch merged in from kaoyan-math1-papers commit 01c9d13 (items v2) with its review report; protocol validation incomplete for both batches"
 }
