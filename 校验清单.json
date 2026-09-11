@@ -92,13 +92,18 @@
     },
     {
       "path": "99_工作包文件与版本清单.md",
-      "bytes": 9622,
-      "sha256": "e461e13b9a5c83a8bb4cdafbde9f4df9c2134f71df6d8c0ccccb3b0550f60192"
+      "bytes": 9725,
+      "sha256": "476129d88be2751bd8c3e387f86cf3f9690fc34e8c6bf22849f11ef69b48c777"
     },
     {
       "path": "AGENTS.md",
-      "bytes": 3849,
-      "sha256": "22f58e92a2259d54570aeed845fc8ae2d53205b17326d8c6334bfb44cc409b36"
+      "bytes": 4294,
+      "sha256": "d1f92de37e1eb426c3d0c8bcca40b3a5f9c7b3483df2c573306e68faca74364d"
+    },
+    {
+      "path": "CLAUDE.md",
+      "bytes": 1803,
+      "sha256": "f1f39753f7a502595ac4adad3d6b01a0733f993b5e130aa9f7ab07b142dc0b51"
     },
     {
       "path": "README.md",
