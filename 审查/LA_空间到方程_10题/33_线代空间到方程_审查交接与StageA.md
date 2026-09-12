@@ -1,5 +1,7 @@
 # 线代空间到方程10题：审查交接与 Stage A
 
+元信息：批次 LA | 卷版本 v2 | 更新 2026-09-11 | 状态 independent_review_done, protocol_validation_incomplete | 可见性 审查（只给审查方） | 学生卷 `../../题库/LA_空间到方程_10题/22_线代空间到方程_10题.md`
+
 > 来源：`kaoyan-math1-papers` 仓库 `claude/postgraduate-math-exam-szkbdo` 分支，`练习/线代空间到方程_10题_v1/00_Opus交接.md 与 02_StageA说明.md`，提交 01c9d133c9d8a554eb0ff32dc60825decca85150（题面 v2）。2026-09-11 迁入本工作包统一管理；原目录保留只作追溯，后续以本文件为准。
 
 本文件由原目录的 `00_Opus交接.md`（审查交接）与 `02_StageA说明.md`（Stage A 输入）合并，两部分原文保留，只改标题层级。
