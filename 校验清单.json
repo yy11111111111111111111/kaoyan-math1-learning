@@ -1,10 +1,7 @@
 {
-  "package_version": "1.7",
+  "package_version": "1.8",
   "layout": "three visibility tiers: 题库/ student papers (may be handed over whole), 审查/ handoff + Stage A (reviewer only), 解析/ answers and review reports; plus 学情/, 复习记录/, 资料/; root keeps entries, item-generation principles and maintenance",
-  "canonical_directory": "D:\\dev\\Documents\\ChatGPT\\高数 2",
-  "global_alias": "C:\\Users\\欧阳佳杰\\.codex\\math-learning",
-  "global_alias_type": "Junction",
-  "coverage": "general mathematics workflows and current multivariable calculus plan",
+  "coverage": "general mathematics workflows, multivariable calculus learning, linear algebra space-to-equations materials and evidence; probability learning not imported",
   "official_protocol_edits_applied": true,
   "missing_research_document": "GPT_数学解答教学输出规范_研究依据版.md",
   "recovery_directory": "C:\\Users\\欧阳佳杰\\.codex\\config-backups\\math-flat-20260906",
@@ -42,8 +39,8 @@
   "files": [
     {
       "path": "00_先读我_使用说明.md",
-      "bytes": 6529,
-      "sha256": "85924ff512463b30803ddad5bf87c2d490d49045eca06de21e5868e64db93840"
+      "bytes": 3774,
+      "sha256": "fc8a72839732049dc2d922c76f4d63014da48f2489747796ae5cc357ea154ce8"
     },
     {
       "path": "00_数学教学_启动入口.md",
@@ -52,8 +49,8 @@
     },
     {
       "path": "00_考研数学一_总入口.md",
-      "bytes": 9712,
-      "sha256": "13ff68478410b65d0dc007f697c262f37d53867b760e63ef1510d63baaeadf6a"
+      "bytes": 10138,
+      "sha256": "7bfafa585ae8a50fbe3f2131f8ac0ae9b8beaf94f42352981a8c374537f2e831"
     },
     {
       "path": "01_数学_对话教学.md",
@@ -62,8 +59,8 @@
     },
     {
       "path": "01_高等数学_总入口.md",
-      "bytes": 25300,
-      "sha256": "5c39ddff951cf711d4b2cb4315b8db80256accbd640348fe69d766ce18def91d"
+      "bytes": 25378,
+      "sha256": "e9a0cea966d55efcf6324953a8fb5b03cafa816554d4f633a325b2b37c86d84b"
     },
     {
       "path": "02_数学_答案检查与照片纠错.md",
@@ -71,49 +68,29 @@
       "sha256": "8f8fe8c2a82b30f4aaf5715c987fdd5a2d2e67f52ba2b486699dfd16617d7405"
     },
     {
+      "path": "02_线性代数_总入口.md",
+      "bytes": 2168,
+      "sha256": "0ff5b2f93f9b60908bea5af2961add336827e8d643b02189be1b6f50dc710573"
+    },
+    {
       "path": "03_数学_自适应出题.md",
       "bytes": 13971,
       "sha256": "2c139bc3b45283c2fde51c7b176cbc763e6542fdf1686b6805b4a64538a60edf"
     },
     {
-      "path": "22_多元微积分检测_解析与个人点评.md",
-      "bytes": 14155,
-      "sha256": "ff5d87868784a9979cc846f7add05f9ce0cf81001d719bd6d7f405ca3df46c20"
-    },
-    {
-      "path": "23_教学AI_启动提示词.md",
-      "bytes": 892,
-      "sha256": "379c50e4b2b9eeb0d77ae6f2414d9dcacefe5a46b68e1970de3363fd998abf07"
-    },
-    {
-      "path": "24_20260915_学习状态增量.md",
-      "bytes": 13311,
-      "sha256": "c01d72a996f1d26e4b18cf2bb118c641fb1f86afaf0f3f6a73d2ada51db7452e"
-    },
-    {
-      "path": "25_20260915_八题检测卷.md",
-      "bytes": 3226,
-      "sha256": "0db309b8bc86f879fc7e3bb754e85e25b6ba1aa26fbc68e64f6d71a87aeae4a8"
-    },
-    {
-      "path": "26_20260915_出题说明.md",
-      "bytes": 903,
-      "sha256": "6c200ff6c6bf473972d5152640637dde5862d56d66486dcf3718b5e91fb32e7b"
-    },
-    {
       "path": "40_跨AI任务与反馈交接.md",
-      "bytes": 5752,
-      "sha256": "c9e9f9cecc950255483c012b258a70c8227940504f5058664ed07fd22d90ebc2"
+      "bytes": 6037,
+      "sha256": "58da13ab5e64c937121634029912d055d9e7d80608264ce00e257f78e18b2228"
     },
     {
       "path": "41_出题agent提示词.md",
-      "bytes": 3878,
-      "sha256": "586fb140ff054d4549267a3ca77684cbef3dea9d002e369b88ce0653af5845f2"
+      "bytes": 4283,
+      "sha256": "1d5559c39813e775d6685e91b9b134f5b3c3f0f7a2fbbfa26937f6042158f540"
     },
     {
       "path": "42_教学agent提示词.md",
-      "bytes": 6269,
-      "sha256": "548150522412e16136326d254185a5031940478e3cddb00bb8c5fac82dd16561"
+      "bytes": 6421,
+      "sha256": "5f54ba11dbc0e8983f0948c34b960ee580635918c40306f6287446fe16a03157"
     },
     {
       "path": "43_三科学情连接与流程优化.md",
@@ -122,8 +99,8 @@
     },
     {
       "path": "90_考研数学一_质量风险与维护记录.md",
-      "bytes": 11657,
-      "sha256": "2bcd24a442970083b2a1c40ae98866459c1ca65d9c6ec830c59a99e887375733"
+      "bytes": 13607,
+      "sha256": "b93aaa3c4c754b188e012fe168ae1ba883b54265f76c49dcce74e15ebe81da83"
     },
     {
       "path": "91_出题协议_修订记录.md",
@@ -137,8 +114,8 @@
     },
     {
       "path": "99_工作包文件与版本清单.md",
-      "bytes": 12329,
-      "sha256": "05c38b0a906880ea190343bd631f0bc658ff0c9850a881af9e92f912e720770c"
+      "bytes": 13866,
+      "sha256": "d6b73b650960b0c795344113db738427642970f7dd819da86876dee90cf8c571"
     },
     {
       "path": "AGENTS.md",
@@ -147,18 +124,18 @@
     },
     {
       "path": "CLAUDE.md",
-      "bytes": 2911,
-      "sha256": "47c755e00b9eec743486fa351b81729b549e59067a4a218bfe664086eb801605"
+      "bytes": 3005,
+      "sha256": "43d94c48cf0dda6d988e7e47baa9545347a537027b3e326e56ef39bf92d0eeb9"
     },
     {
       "path": "README.md",
-      "bytes": 6064,
-      "sha256": "23aa48657837387047065b10221e23a6f6522b3a7ddb41c07877a37dba86fb95"
+      "bytes": 4295,
+      "sha256": "ec16057fef45ff9111cc4fd11f7be400b2629d5c8eb86a8305a2e16eda2dcabd"
     },
     {
       "path": "全局入口.md",
-      "bytes": 2400,
-      "sha256": "26cb32b913a6b5b5f7fbda07d90dca540ce5498e4e8ee629ca09f9e9e4491986"
+      "bytes": 1223,
+      "sha256": "a11e1abf54dd9b3de8aa2b6c5ecbb515afd4af41a79226863923cae61160f73c"
     },
     {
       "path": "复习记录/00_格式与规则.md",
@@ -184,6 +161,24 @@
       "path": "学情/20_多元微积分复习路线.md",
       "bytes": 19520,
       "sha256": "dc6aa09744600cd27828486513900e74ffa6c6069a08f938444be66741b0332e"
+    },
+    {
+      "path": "学情/23_教学AI_启动提示词.md",
+      "bytes": 1160,
+      "sha256": "9a31f40297731516af72a92e39b866ebdade7060d6dee23a27ecb0c012495a6d",
+      "previous_repository_path": "23_教学AI_启动提示词.md"
+    },
+    {
+      "path": "学情/24_20260915_学习状态增量.md",
+      "bytes": 13311,
+      "sha256": "c01d72a996f1d26e4b18cf2bb118c641fb1f86afaf0f3f6a73d2ada51db7452e",
+      "previous_repository_path": "24_20260915_学习状态增量.md"
+    },
+    {
+      "path": "学情/26_20260915_出题说明.md",
+      "bytes": 903,
+      "sha256": "6c200ff6c6bf473972d5152640637dde5862d56d66486dcf3718b5e91fb32e7b",
+      "previous_repository_path": "26_20260915_出题说明.md"
     },
     {
       "path": "学情/30_考研数学一_当前学习状态.md",
@@ -246,6 +241,12 @@
       "sha256": "6cc5a51bbb56b12401e0d65f4685e759f9f7dba6796441107bc871eb9d0d08bb"
     },
     {
+      "path": "解析/MV26_多元微积分水平检测/22_多元微积分检测_解析与个人点评.md",
+      "bytes": 14483,
+      "sha256": "581be91090675f0a4c24ab6330212ac5cc3ee7d3382c0800ac45e72cb645abc2",
+      "previous_repository_path": "22_多元微积分检测_解析与个人点评.md"
+    },
+    {
       "path": "解析/MV26_多元微积分水平检测/教师用_多元微积分水平检测_参考与证据.md",
       "bytes": 19177,
       "sha256": "7a44c89671bef30e58ac216c19160d8b64104e8d4ecd0709575065a0d7e0fbff"
@@ -271,6 +272,12 @@
       "sha256": "a0e9fbcd74a64e949b55ee4edce7a3b9392df934170a26448c807ef3199a047d"
     },
     {
+      "path": "题库/MV0915_多元微积分检测/25_20260915_八题检测卷.md",
+      "bytes": 3154,
+      "sha256": "06831667bc6c9a3304e5afb6bdd58267f1fbb3e34b10b722ea2af880e0cbf4f5",
+      "previous_repository_path": "25_20260915_八题检测卷.md"
+    },
+    {
       "path": "题库/MV0916_复习与理解证明/学生卷.md",
       "bytes": 5820,
       "sha256": "9c738b7a2a6dc7fcb826983dfd6d437e0e2d638b0d85011d4f2160ba1ba688e9"
@@ -292,5 +299,11 @@
     "research_document_read": false
   },
   "protocol_revision_backup": "C:\\Users\\欧阳佳杰\\.codex\\config-backups\\math-protocol-v110-20260906",
-  "revision_note": "2026-09-10 external review of MV26 items; 2026-09-11 linear-algebra batch merged in from kaoyan-math1-papers 01c9d13; 2026-09-11 repository regrouped: root keeps entries, item-generation protocols and maintenance, content moved into 题库/审查/解析/学情/复习记录/资料 (filenames unchanged, in-package references rewritten)"
+  "revision_note": "2026-09-10 external review of MV26 items; 2026-09-11 linear-algebra batch merged in from kaoyan-math1-papers 01c9d13; 2026-09-11 repository regrouped: root keeps entries, item-generation protocols and maintenance, content moved into 题库/审查/解析/学情/复习记录/资料 (filenames unchanged, in-package references rewritten)",
+  "source_canonical_directory": "D:\\dev\\Documents\\ChatGPT\\高数 2",
+  "source_global_alias": "C:\\Users\\欧阳佳杰\\.codex\\math-learning",
+  "source_global_alias_type": "Junction",
+  "canonical_repository": "https://github.com/yy11111111111111111111/kaoyan-math1-learning",
+  "branch_policy": "use the branch explicitly supplied by the user; local source directories are not synchronized automatically",
+  "organization_base_commit": "fcbbe8a121af255c3574e947450f978b5e3dd5cd"
 }
