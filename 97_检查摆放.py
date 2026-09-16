@@ -52,7 +52,7 @@ for tree in ("审查", "解析"):
         mm = META.match(line)
         if not mm:
             err(f, "元信息行字段或顺序不符：批次 | 卷版本 | 更新 | 状态 | 可见性 | 学生卷"); continue
-        b = f.split("/")[1]
+        b = os.path.basename(os.path.dirname(f))
         if mm["code"] != b.split("_")[0]:
             err(f, f"元信息批次 {mm['code']} 与目录 {b} 的代号不一致")
         if mm["vis"] != tree:
@@ -77,7 +77,7 @@ for f in sorted(glob.glob("题库/*/*.md")):
         err(f, "学生卷开头缺少 `批次 X | 版本 vN | M题` 一行")
     else:
         code = next(PAPER.match(l)["code"] for l in head if PAPER.match(l))
-        b = f.split("/")[1]
+        b = os.path.basename(os.path.dirname(f))
         if code != b.split("_")[0]:
             err(f, f"卷头批次 {code} 与目录 {b} 的代号不一致")
     for bad in BAN:
@@ -112,8 +112,8 @@ for f in [x for x in files if x.endswith(".md")]:
 
 # 6. 校验清单与磁盘一致
 man = json.load(open("校验清单.json", encoding="utf-8"))
-listed = {e["path"] for e in man["files"]}
-disk = set(glob.glob("**/*.md", recursive=True))
+listed = {e["path"].replace("\\", "/") for e in man["files"]}
+disk = {p.replace("\\", "/") for p in glob.glob("**/*.md", recursive=True)}
 for p in sorted(disk - listed): err("校验清单.json", f"未登记：{p}")
 for p in sorted(listed - disk): err("校验清单.json", f"登记了不存在的文件：{p}")
 for e in man["files"]:
