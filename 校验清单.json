@@ -112,8 +112,13 @@
     },
     {
       "path": "42_教学agent提示词.md",
-      "bytes": 5848,
-      "sha256": "0be98ab0cd162d10477eddf00cdcfebbf54548f4087cba25c0c51af93d5fa8b1"
+      "bytes": 6269,
+      "sha256": "548150522412e16136326d254185a5031940478e3cddb00bb8c5fac82dd16561"
+    },
+    {
+      "path": "43_三科学情连接与流程优化.md",
+      "bytes": 7125,
+      "sha256": "54fba2b15842b37ba12c318ac8e03dfde2f50b72f097d91c91277d1c7d32cd4f"
     },
     {
       "path": "90_考研数学一_质量风险与维护记录.md",
@@ -132,8 +137,8 @@
     },
     {
       "path": "99_工作包文件与版本清单.md",
-      "bytes": 12118,
-      "sha256": "0acb0890b4b43cf0d74e3e73fbff57053ae008cba2264e36c95c29be0c98be1c"
+      "bytes": 12329,
+      "sha256": "05c38b0a906880ea190343bd631f0bc658ff0c9850a881af9e92f912e720770c"
     },
     {
       "path": "AGENTS.md",
@@ -147,8 +152,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5738,
-      "sha256": "3d7ef6102aafc37f112633c663d91ffffa694c199bcb1592e27bb059e8368651"
+      "bytes": 6064,
+      "sha256": "23aa48657837387047065b10221e23a6f6522b3a7ddb41c07877a37dba86fb95"
     },
     {
       "path": "全局入口.md",
