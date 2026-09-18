@@ -89,8 +89,8 @@
     },
     {
       "path": "42_教学agent提示词.md",
-      "bytes": 9535,
-      "sha256": "77519337792a29d92cd74723a7612c84cdb732bcd368bbbec5dee158bda32deb"
+      "bytes": 10699,
+      "sha256": "fdfaf53058ed49cc05eff72fbe8ae4be0d4db05a7b2ec561338310eb9db34444"
     },
     {
       "path": "43_三科学情连接与流程优化.md",
@@ -99,8 +99,8 @@
     },
     {
       "path": "90_考研数学一_质量风险与维护记录.md",
-      "bytes": 15887,
-      "sha256": "27f26d2f7edc762658ee0c41fc38756405c45a281e1b6aee69071d9a80ed9d90"
+      "bytes": 16580,
+      "sha256": "db2ec2a389bbfdf4e2beaf0f8b5680ef09bdf4d3d9e43916ecea8bfff20e596d"
     },
     {
       "path": "91_出题协议_修订记录.md",
@@ -114,8 +114,8 @@
     },
     {
       "path": "99_工作包文件与版本清单.md",
-      "bytes": 15267,
-      "sha256": "d6c83eae40486f1c43ffd207104a2e4ff12374b4c642bf40481c2e65d480ebb8"
+      "bytes": 15846,
+      "sha256": "b9f744b58eb0b8703235f2e0a3501993b5d0268f54b584182f9d9a3f23a851b6"
     },
     {
       "path": "AGENTS.md",
@@ -129,8 +129,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5580,
-      "sha256": "1cda4b96ba6542725a0b72c1176f79cbea30df7b68c1c0f97ab291113c6a9548"
+      "bytes": 6078,
+      "sha256": "1cfc060374934428568d9df82292aaece6b18ebdbd76220b5f073b5f7b9c02ee"
     },
     {
       "path": "全局入口.md",
@@ -144,8 +144,8 @@
     },
     {
       "path": "复习记录/2026-09.md",
-      "bytes": 25551,
-      "sha256": "e13ad5e2ad4cfbe47387c3c7e80f87e530db217b9c5289af9947faa26a5f7c5b"
+      "bytes": 27099,
+      "sha256": "8665435fb3c9de669af4ab1950c862834e1b2363085766ecb493af72ef9807d0"
     },
     {
       "path": "学情/2026-09-16_MV0916B设计与投放.md",
@@ -173,9 +173,14 @@
       "sha256": "b83460fac4b78261f4591aea6857b7a8987c029769f7fdbf626aba466b054281"
     },
     {
+      "path": "学情/2026-09-18_DISELECT01设计与投放.md",
+      "bytes": 3014,
+      "sha256": "0cab3b0e7a5e74fcb41dea4e45498d1c8c14d3edce047fd36ed4cd2fdd38654a"
+    },
+    {
       "path": "学情/20_多元微积分复习路线.md",
-      "bytes": 25337,
-      "sha256": "f76a083427bdda1ae61b63efba5375b35a9c9644b788ced6c917bb1b97b992c2"
+      "bytes": 26918,
+      "sha256": "8001270f404c53bb62b9c2c482055f0d7e9db36cd00481df0d4eb120773a07ca"
     },
     {
       "path": "学情/23_教学AI_启动提示词.md",
@@ -197,8 +202,8 @@
     },
     {
       "path": "学情/30_考研数学一_当前学习状态.md",
-      "bytes": 14840,
-      "sha256": "b760c30819deae0ec1883d21986ab1c0cb6071d9caa701ebf4f712f07ccd3b04"
+      "bytes": 16218,
+      "sha256": "8771e01021fbb2fcc6d447dbd5c63a0590b90bdcbf93deb7c809c8ba617a15a8"
     },
     {
       "path": "学情/31_水平检测_作答后教学衔接.md",
@@ -209,6 +214,11 @@
       "path": "学情/34_线代空间到方程_教学衔接.md",
       "bytes": 4002,
       "sha256": "43119b81cc7917bb63b8cdcf7fe7226b0ae8964be275088ebee37f3224b0ce62"
+    },
+    {
+      "path": "审查/DISELECT01_二重积分方法选择/审查交接与StageA.md",
+      "bytes": 21637,
+      "sha256": "9728cad033455ef52d76667890f7e86ed6283e6e1f431d361bedd1230ffe6912"
     },
     {
       "path": "审查/LA_空间到方程_10题/33_线代空间到方程_审查交接与StageA.md",
@@ -249,6 +259,11 @@
       "path": "数学题_Validation_Protocol.md",
       "bytes": 25477,
       "sha256": "a23a04f3e0d9e3aabd356a115884a3b99eb6320017a612a8a69bb526cbfca0b5"
+    },
+    {
+      "path": "解析/DISELECT01_二重积分方法选择/封存设计声明_无答案.md",
+      "bytes": 4019,
+      "sha256": "aa2070fe4d18f43e4a3d9db0f1bcda79ac083107d1dc2773c9391d4538c73846"
     },
     {
       "path": "解析/LA_空间到方程_10题/35_线代空间到方程_验收报告.md",
@@ -300,6 +315,11 @@
       "path": "资料/方法族-高数-重积分.md",
       "bytes": 45829,
       "sha256": "1fa723650a33f80abe55e634f81916e7a9889a421aaceb93453e00dab7b13756"
+    },
+    {
+      "path": "题库/DISELECT01_二重积分方法选择/学生卷.md",
+      "bytes": 1599,
+      "sha256": "51031886dd19ee94f7901b042041fc7813acb246c41bf34a277a0cff3fd3f91d"
     },
     {
       "path": "题库/LA_空间到方程_10题/22_线代空间到方程_10题.md",
