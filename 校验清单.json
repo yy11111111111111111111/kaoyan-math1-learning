@@ -39,8 +39,8 @@
   "files": [
     {
       "path": "00_先读我_使用说明.md",
-      "bytes": 3774,
-      "sha256": "fc8a72839732049dc2d922c76f4d63014da48f2489747796ae5cc357ea154ce8"
+      "bytes": 3733,
+      "sha256": "6b0b99694569cbb464854954be40a898f59727f29b3bec5aaa20c0e8e9c5004a"
     },
     {
       "path": "00_数学教学_启动入口.md",
@@ -49,8 +49,8 @@
     },
     {
       "path": "00_考研数学一_总入口.md",
-      "bytes": 10138,
-      "sha256": "7bfafa585ae8a50fbe3f2131f8ac0ae9b8beaf94f42352981a8c374537f2e831"
+      "bytes": 10013,
+      "sha256": "e43994f1fefd796ca0bdbb5de295f67b2e5a270b8ef7888651f7319c1b1f5b1f"
     },
     {
       "path": "01_数学_对话教学.md",
@@ -59,8 +59,8 @@
     },
     {
       "path": "01_高等数学_总入口.md",
-      "bytes": 25378,
-      "sha256": "e9a0cea966d55efcf6324953a8fb5b03cafa816554d4f633a325b2b37c86d84b"
+      "bytes": 25020,
+      "sha256": "4c075ceef1f668fc8d43b5487e3597546e488663d86647f3566a29cd272e4387"
     },
     {
       "path": "02_数学_答案检查与照片纠错.md",
@@ -69,8 +69,8 @@
     },
     {
       "path": "02_线性代数_总入口.md",
-      "bytes": 2168,
-      "sha256": "0ff5b2f93f9b60908bea5af2961add336827e8d643b02189be1b6f50dc710573"
+      "bytes": 2149,
+      "sha256": "8c92e0fbb5ac1e007390e5643de77fd4d645513f9d2bd3c037f37c4a3e4120f6"
     },
     {
       "path": "03_数学_自适应出题.md",
@@ -79,28 +79,28 @@
     },
     {
       "path": "40_跨AI任务与反馈交接.md",
-      "bytes": 6037,
-      "sha256": "58da13ab5e64c937121634029912d055d9e7d80608264ce00e257f78e18b2228"
+      "bytes": 5932,
+      "sha256": "4cfc25fca1e9d73f746b8d2e327133a8e8bdc9726f7083da5823d6cb4a077c8a"
     },
     {
       "path": "41_出题agent提示词.md",
-      "bytes": 4283,
-      "sha256": "1d5559c39813e775d6685e91b9b134f5b3c3f0f7a2fbbfa26937f6042158f540"
+      "bytes": 4235,
+      "sha256": "c6b0fbcabb25f5504e4465422de2734b00afa6ae4034c6b19bd8489226a09917"
     },
     {
       "path": "42_教学agent提示词.md",
-      "bytes": 15647,
-      "sha256": "bcd09f4e55a707a814233563a5447d0c65b29bb70d00c71b06c0077b0a44de91"
+      "bytes": 15524,
+      "sha256": "499e616871791170baf21c06949a57a086f18ebd4f8a5dcf4155a3ade15933f6"
     },
     {
       "path": "43_三科学情连接与流程优化.md",
-      "bytes": 7184,
-      "sha256": "30cd38bf109fcb0e0d7ce1bf1baee94286a152bf35631ef795878b31fc5ec7e8"
+      "bytes": 7125,
+      "sha256": "54fba2b15842b37ba12c318ac8e03dfde2f50b72f097d91c91277d1c7d32cd4f"
     },
     {
       "path": "90_考研数学一_质量风险与维护记录.md",
-      "bytes": 18818,
-      "sha256": "37f41a346285f61f59d941e71d3f9e257b38a446876a10b00b5cc431b9743bce"
+      "bytes": 19044,
+      "sha256": "9bb43684b8f17c2f1ae55fdd89e8c12a0a88547a2b6473c942ee5f6c41f98318"
     },
     {
       "path": "91_出题协议_修订记录.md",
@@ -109,48 +109,53 @@
     },
     {
       "path": "92_题库批次规范.md",
-      "bytes": 5154,
-      "sha256": "713e48a0a9c250fbb7c0722779ad5d1de9c9ea1effe58995ba40788b41b6b88f"
+      "bytes": 5088,
+      "sha256": "a8c39e658d7067ba54199af52f81d7e3f51d1a6e7673b0d435d8d352af40fdbd"
+    },
+    {
+      "path": "93_仓库体检复核_2026-09-19.md",
+      "bytes": 5424,
+      "sha256": "2909f65f95ead062d2d3f8436689a976c9565a0d76d6ba2e8949d4bc0e6fb45c"
     },
     {
       "path": "99_工作包文件与版本清单.md",
-      "bytes": 19275,
-      "sha256": "eaf13105f43c1663b8a4285d445faf933676d40a32ca88830496c96d4d1b6b36"
+      "bytes": 19350,
+      "sha256": "c6cbcf5073cb429141dbaae76b9eddf5c3a17eed836164a0f29a5a624ac7926f"
     },
     {
       "path": "AGENTS.md",
-      "bytes": 8739,
-      "sha256": "de2037cbf6b5bff32b14a9d1d02b8cd8f053518063920f77ea71183f265ea097"
+      "bytes": 8693,
+      "sha256": "4f00114210b055e6ebef3a04a1b8c830ba906f3bed9e0dc9aac02125fd3b41f7"
     },
     {
       "path": "CLAUDE.md",
-      "bytes": 3005,
-      "sha256": "43d94c48cf0dda6d988e7e47baa9545347a537027b3e326e56ef39bf92d0eeb9"
+      "bytes": 2970,
+      "sha256": "af4cceea73748524cdc3b1b98226edb189b7cacafde206f1c0a4d93e1abfbc9d"
     },
     {
       "path": "README.md",
-      "bytes": 8554,
-      "sha256": "71a7cff7183665a008ae3f866561fb15fffc7b3c60a796fb5c509ed5e31732f1"
+      "bytes": 8453,
+      "sha256": "357aa36d7af05e675046e2576812aafb50d91f468a8f9dbd7a54ebfb2f33245e"
     },
     {
       "path": "全局入口.md",
-      "bytes": 1223,
-      "sha256": "a11e1abf54dd9b3de8aa2b6c5ecbb515afd4af41a79226863923cae61160f73c"
+      "bytes": 1210,
+      "sha256": "c41bc803f76847316aebc7958ea83abdda1bfcab1b394e03fa1448e225ec1f2b"
     },
     {
       "path": "复习记录/00_格式与规则.md",
-      "bytes": 2438,
-      "sha256": "5133760fd40ee3fcb043509561b0846cc705a251e5f754d6b690f47144c7f446"
+      "bytes": 2400,
+      "sha256": "f21021c4bae4cf69cbd05cfafad58b3871ad53421c1becbdc72d2e57679b5251"
     },
     {
       "path": "复习记录/2026-09.md",
-      "bytes": 39049,
-      "sha256": "7614b315b59f1e69f1b2941e983b8a563279863e26eb8a7357cde1deeee05a71"
+      "bytes": 38502,
+      "sha256": "a6c0ae6b4a4f00a9ad045433424cbc6d6b4d19bfa72e96ba611d0d66c108796c"
     },
     {
       "path": "学情/2026-09-16_MV0916B设计与投放.md",
-      "bytes": 2824,
-      "sha256": "8077542ea5451d380c1eed924097a1a891ac610cade2aa729a414d2c43bc0459"
+      "bytes": 2802,
+      "sha256": "e4e7f27765fa1e5181972cd2f1e87744d84620eb0683a4448bf4b45731e739f7"
     },
     {
       "path": "学情/2026-09-16_MV0916作答与教学交接.md",
@@ -159,121 +164,121 @@
     },
     {
       "path": "学情/2026-09-16_MV0916投放与设计目标.md",
-      "bytes": 2875,
-      "sha256": "53a0448dfb04836e9db5df07cd07dda47609a1dc7527ae81fa864790db6c38f9"
+      "bytes": 2850,
+      "sha256": "4783f9c0a07db6b17ea8585f038031e3c630cd6d1c00576f12969118ab6d0acc"
     },
     {
       "path": "学情/2026-09-16_用户学习状态交接.md",
-      "bytes": 10114,
-      "sha256": "b03385e5bfcf787c747b2ed2a27ba6e31a94d31dea8a445d83875aee50d99fc7"
+      "bytes": 9775,
+      "sha256": "5cb97237f72415f5b0cf57cc1be4050692a9ffa634e24d5a14b6da869cbe3d73"
     },
     {
       "path": "学情/2026-09-17_MVCLOSE01设计与投放.md",
-      "bytes": 2133,
-      "sha256": "b83460fac4b78261f4591aea6857b7a8987c029769f7fdbf626aba466b054281"
+      "bytes": 2117,
+      "sha256": "109bd36101a0efcc705d5f102eb5046bdb5fc49e608e9e1ca1aa67b5ff53c112"
     },
     {
       "path": "学情/2026-09-18_DISELECT01设计与投放.md",
-      "bytes": 3014,
-      "sha256": "0cab3b0e7a5e74fcb41dea4e45498d1c8c14d3edce047fd36ed4cd2fdd38654a"
+      "bytes": 2994,
+      "sha256": "e6623b066833983d9c302c9fead4df1704f8cb71d9d8189a53c68e987b58f74f"
     },
     {
       "path": "学情/2026-09-18_DISELECT02设计与投放.md",
-      "bytes": 2558,
-      "sha256": "7ef8882ee7059c8c481d9ccd83d18c74ecfa62fa80587bb9cf2eacfe81c017f4"
+      "bytes": 2542,
+      "sha256": "3aa415b6966ccf305854ef7c5d370d8049353110244eca7d214d059e2f771df3"
     },
     {
       "path": "学情/2026-09-18_无穷级数学习交接.md",
-      "bytes": 10875,
-      "sha256": "741fb80086a35ef7a25327b350608d714d939b35f8ace4e12a307ab3623f4f51"
+      "bytes": 10343,
+      "sha256": "688f968e2e40a899a729df4bb34f657c582c69761ff6d40e459e14fc985f5c01"
     },
     {
       "path": "学情/20_多元微积分复习路线.md",
-      "bytes": 35767,
-      "sha256": "44cf5e697663d0a5dbf2fb33c299ceb2b45337aa39a5a6c74d8f63274434b887"
+      "bytes": 35458,
+      "sha256": "5fcd80db77bce7072096429c777cc461577a61ef900898cb21bca9d1a49bea71"
     },
     {
       "path": "学情/23_教学AI_启动提示词.md",
-      "bytes": 1160,
-      "sha256": "9a31f40297731516af72a92e39b866ebdade7060d6dee23a27ecb0c012495a6d",
+      "bytes": 1153,
+      "sha256": "8e9806d3733cac65c2159da93e360b70934223b5efc3d616c386913e70e54127",
       "previous_repository_path": "23_教学AI_启动提示词.md"
     },
     {
       "path": "学情/24_20260915_学习状态增量.md",
-      "bytes": 13311,
-      "sha256": "c01d72a996f1d26e4b18cf2bb118c641fb1f86afaf0f3f6a73d2ada51db7452e",
+      "bytes": 12664,
+      "sha256": "a75607d204981c411e22a15da4d5d965faf355f3614f3fc3e2f41fbb1eee54b9",
       "previous_repository_path": "24_20260915_学习状态增量.md"
     },
     {
       "path": "学情/26_20260915_出题说明.md",
-      "bytes": 903,
-      "sha256": "6c200ff6c6bf473972d5152640637dde5862d56d66486dcf3718b5e91fb32e7b",
+      "bytes": 898,
+      "sha256": "d8a81ac5c631e0a116b9975e3544632ff8137faa6c660b3e0c2b2ca4303eca1f",
       "previous_repository_path": "26_20260915_出题说明.md"
     },
     {
       "path": "学情/30_考研数学一_当前学习状态.md",
-      "bytes": 28269,
-      "sha256": "026fdeebdda7892aac489ea021b9744b19654476f3f826b13404bd86f16d5484"
+      "bytes": 28020,
+      "sha256": "d91ab39c61ba81bd85038367ea8b668a3e965e28c19ac3269faf9a8ff4e0e6e6"
     },
     {
       "path": "学情/31_水平检测_作答后教学衔接.md",
-      "bytes": 3965,
-      "sha256": "f3e18d6d7406b66cf2ed76089225674586a4eac6d334451bda8118d1cb46ccc4"
+      "bytes": 3923,
+      "sha256": "a34eb834692d6c012669e06129d1724f68bc4663b6193a74d0ba758f1276103d"
     },
     {
       "path": "学情/34_线代空间到方程_教学衔接.md",
-      "bytes": 4002,
-      "sha256": "43119b81cc7917bb63b8cdcf7fe7226b0ae8964be275088ebee37f3224b0ce62"
+      "bytes": 3961,
+      "sha256": "86c968249de15577ed05e0a744c678c13b62c4bd89c3859908257c3004c44aa2"
     },
     {
       "path": "审查/DICALC01_高难完整计算/审查交接与StageA.md",
-      "bytes": 11725,
-      "sha256": "97a9d3895b19523071794a53d63e384124a16a07728fb468061f06b1becfd2b5"
+      "bytes": 11442,
+      "sha256": "c6bfb883d3a1439820bed7e3b3ff3d52defc6014f77c616e0547ef3a838ba779"
     },
     {
       "path": "审查/DIIMPROPER01_反常二重积分与可积性/审查交接与StageA.md",
-      "bytes": 20477,
-      "sha256": "496ffed52b0483625e760ab5bb1784366b8a67c3ed37d60af51ae3009ef1eb8e"
+      "bytes": 20102,
+      "sha256": "21bf7fabdbb5d01ee9d4e96d3f54b0761a943f0a9a2b25f8cfc923f9ebde5169"
     },
     {
       "path": "审查/DISELECT01_二重积分方法选择/审查交接与StageA.md",
-      "bytes": 21637,
-      "sha256": "9728cad033455ef52d76667890f7e86ed6283e6e1f431d361bedd1230ffe6912"
+      "bytes": 21230,
+      "sha256": "96d074655610318bdab607f5b7c5faae28309e7fa17f1dcf0f95fa38dbfa42d4"
     },
     {
       "path": "审查/DISELECT02_方法陷阱与总成本比较/审查交接与StageA.md",
-      "bytes": 14983,
-      "sha256": "60d1cb5f755150907ee7eaef4822c22b597d8fe80fa505a108d149fb7fbab224"
+      "bytes": 14676,
+      "sha256": "ab3f4d8fd75c7df3f67247dbc089f7052da50f1280d7cc83651c3ea808af5c84"
     },
     {
       "path": "审查/LA_空间到方程_10题/33_线代空间到方程_审查交接与StageA.md",
-      "bytes": 4848,
-      "sha256": "4e1a3b1488a3ed452cfd3196e40524e913d02e56bd07b971a3330bdf11d4443e"
+      "bytes": 4791,
+      "sha256": "b0a0fc4ea7f2df811a0deae5cd0159170bb657b5dd36c70c142b0cb3d8091afc"
     },
     {
       "path": "审查/MV0916B_表示与方向迁移/审查交接与StageA.md",
-      "bytes": 27359,
-      "sha256": "d812e96a4db68004861fd25dcbaf0b6674c2c27708428f12091aeb4322628f03"
+      "bytes": 26862,
+      "sha256": "20177e4c8b9ee7255ed74707e08f571ee636d16bc03b3b77a68ace376f30005f"
     },
     {
       "path": "审查/MV0916_复习与理解证明/审查交接与StageA.md",
-      "bytes": 33481,
-      "sha256": "03039f88e3ce40dda2cdabb7d28052ef7a2c0d9abecee590cecb8590da5cbb5a"
+      "bytes": 32885,
+      "sha256": "05ec1a25ed4e24829b8f8bce730c61e4dd58c67101e3369591be2b5b8937e8c4"
     },
     {
       "path": "审查/MV26_多元微积分水平检测/32_水平检测_外部审查交接.md",
-      "bytes": 38967,
-      "sha256": "5130fa1717058a9c441450a3b654b0e400a33ccb04d138fe9b08663abd548978"
+      "bytes": 38300,
+      "sha256": "e6fd37be1e4a51cf90cfa8d96fe567d9d8f6a17513f4c737f5778a0f9c896ab6"
     },
     {
       "path": "审查/MVCLOSE01_多元微积分收尾混合复习/审查交接与StageA.md",
-      "bytes": 18788,
-      "sha256": "b1eda143b747216fd808855dc95a06d401966f34b9ee056de58a04473f843ffa"
+      "bytes": 18389,
+      "sha256": "a06ae58017896e6d3b8f724d44d479ad8bebbd696f29536acce64f290dbf38d2"
     },
     {
       "path": "审查/SERIESSTAGE01_无穷级数阶段题组/审查交接与StageA.md",
-      "bytes": 11933,
-      "sha256": "be798bd28640c293b2fbc405b561c4b7614da5701a6ea463072ec8b04668f426"
+      "bytes": 11680,
+      "sha256": "34b42d0a0e4d4f4e8ae54abf29be199ed1bba968eb894f0f08361ba4805440e1"
     },
     {
       "path": "数学出题_共享声明集.md",
@@ -292,89 +297,89 @@
     },
     {
       "path": "解析/DICALC01_高难完整计算/封存设计声明_无答案.md",
-      "bytes": 2800,
-      "sha256": "4ad17ffbed9cb6276cce17f421acd4124bd1cd1688f21cbf882afcbc15098d6a"
+      "bytes": 2719,
+      "sha256": "4f57a84bb7ea352a97ef0862fd5e2405fbc59e74e9525296b9ae8116eeac45c1"
     },
     {
       "path": "解析/DIIMPROPER01_反常二重积分与可积性/封存设计声明_无答案.md",
-      "bytes": 4495,
-      "sha256": "30ca5e6016d0499528c7f5ec002128a28f4e88f979fe29432d238f4ad4d4d0b5"
+      "bytes": 4388,
+      "sha256": "f489b4cece8df54df1c82a8719e9e435c2846236449848d18f9235ee032e4cbb"
     },
     {
       "path": "解析/DISELECT01_二重积分方法选择/封存设计声明_无答案.md",
-      "bytes": 4019,
-      "sha256": "aa2070fe4d18f43e4a3d9db0f1bcda79ac083107d1dc2773c9391d4538c73846"
+      "bytes": 3919,
+      "sha256": "c338cba527974292d24bdaadc19e890da9dba77ff17ef702b00b26b406d98723"
     },
     {
       "path": "解析/DISELECT02_方法陷阱与总成本比较/封存设计声明_无答案.md",
-      "bytes": 3388,
-      "sha256": "abab90189a924a9bb9d7ce502e23a199c36e2207a662bfa08663789e321de661"
+      "bytes": 3304,
+      "sha256": "848492189f41a4fc527e923314b25eec37d8f32cac4dee1fd08be9aafdd402e1"
     },
     {
       "path": "解析/LA_空间到方程_10题/35_线代空间到方程_验收报告.md",
-      "bytes": 14705,
-      "sha256": "1e619dbc6e00e354502db55c7fecce10ad4fc7c31cddddaa3a698a8ffa852a73"
+      "bytes": 14559,
+      "sha256": "565bf0050ca58f3cc25871bd1f0cfb0a35ada7fbbe3bcff7f8fe62239cbbc145"
     },
     {
       "path": "解析/LA_空间到方程_10题/教师用_线代空间到方程_参考推导.md",
-      "bytes": 6055,
-      "sha256": "01662f8b58b82b3f143fd30e985c63735b04637bed28e7a69f4b41d0b470be29"
+      "bytes": 5994,
+      "sha256": "b8d1c61e7424b121df986aca8ae2b3a816c8c6ed9e8257b676aae1ce8ea5f75a"
     },
     {
       "path": "解析/MV0916B_表示与方向迁移/封存目标声明_无答案.md",
-      "bytes": 8042,
-      "sha256": "92c0a8c61ae08e4d36a06f145883e58891a80fbe2611b747ca8cb7a83d4443f1"
+      "bytes": 7877,
+      "sha256": "03b5dfa882528d3631429eaaeeee026beed7ce7f810c438fa7b8fbcbe23ca182"
     },
     {
       "path": "解析/MV0916_复习与理解证明/封存StageB.md",
-      "bytes": 14540,
-      "sha256": "6cc5a51bbb56b12401e0d65f4685e759f9f7dba6796441107bc871eb9d0d08bb"
+      "bytes": 14294,
+      "sha256": "78ae81a29ea9179821e8a2bf7e48436ceddf268219b94d5cfddb31a7a0bd6712"
     },
     {
       "path": "解析/MV26_多元微积分水平检测/22_多元微积分检测_解析与个人点评.md",
-      "bytes": 14484,
-      "sha256": "70b1f8613148d4d26cec132e00f0ecbe5a6de7229650932a60c6c0b5592ae18a",
+      "bytes": 14141,
+      "sha256": "3a3b47b283d0de89549c736cc84b504a218fccdd5f528729ee37cbd097a099de",
       "previous_repository_path": "22_多元微积分检测_解析与个人点评.md"
     },
     {
       "path": "解析/MV26_多元微积分水平检测/教师用_多元微积分水平检测_参考与证据.md",
-      "bytes": 19177,
-      "sha256": "7a44c89671bef30e58ac216c19160d8b64104e8d4ecd0709575065a0d7e0fbff"
+      "bytes": 18962,
+      "sha256": "64ce2c90af7ba0d160d640a5c006039dd9ec8f0dac17a6305b8fdcb3c91bddbe"
     },
     {
       "path": "解析/MVCLOSE01_多元微积分收尾混合复习/封存设计声明_无答案.md",
-      "bytes": 4885,
-      "sha256": "6742fd76eabda030826047448effccbdb4a69c89ed66f08ca4b157b166658c42"
+      "bytes": 4771,
+      "sha256": "0324f742c4a36cdcea2e336680e5932fb4ac1d6e4a6d7b07ba2af317dd5d6f10"
     },
     {
       "path": "解析/SERIESSTAGE01_无穷级数阶段题组/封存设计声明_无答案.md",
-      "bytes": 3078,
-      "sha256": "804d827ab4a24d4e1a6c07be80ae0f2ee99701611472d9225109ca0d98017ca8"
+      "bytes": 3018,
+      "sha256": "e35fa4d76aee868a87d058957a5cdc821d44ff00a4c2e8ab5acb74fafb139e1a"
     },
     {
       "path": "资料/10_高等数学_资料与覆盖索引.md",
-      "bytes": 30098,
-      "sha256": "3ca6bad3402e5a311de31a3d992ea079dc83ffc5a250ed9d57abe1e54fbb82df"
+      "bytes": 29704,
+      "sha256": "167e1d1f1db626ab0519f9b4b224fbebf20e69669d6e115ad3f6e7e3d11ef68c"
     },
     {
       "path": "资料/方法族-高数-多元微分.md",
-      "bytes": 127520,
-      "sha256": "feb6a8ad6277c7383544b09c4720df5e049f58fab6f46dca8d5d7a5210da77f8"
+      "bytes": 125859,
+      "sha256": "5e9bc7312af5f503a93a80e90cb8a98ddfa9ead4058ad2b3b31f668f9523e730"
     },
     {
       "path": "资料/方法族-高数-重积分.md",
-      "bytes": 45829,
-      "sha256": "1fa723650a33f80abe55e634f81916e7a9889a421aaceb93453e00dab7b13756"
+      "bytes": 45161,
+      "sha256": "27f7fed7611a7ad93c591e445ad2b9a836500fe993e8982c120399243170dcbc"
     },
     {
       "path": "题库/DICALC01_高难完整计算/学生卷.md",
-      "bytes": 1215,
-      "sha256": "911458e6aae9780733f3e03398caa0f55018f4632f88a5cc867cabe6f15387d4"
+      "bytes": 1157,
+      "sha256": "0b83aadde0602c792ea4a8d32ebf15e46a0074bf925028a5c94f99e7df11a806"
     },
     {
       "path": "题库/DIIMPROPER01_反常二重积分与可积性/学生卷.md",
-      "bytes": 2934,
-      "sha256": "5f5aabc204b01ca0c3053ec76a063bc5ba2c701835e4db05cfc0216d14f3ae93"
+      "bytes": 2852,
+      "sha256": "e62a070a6d295c8714951f983ae8839acb576b9e2ce389610391c69c9dc3f376"
     },
     {
       "path": "题库/DISELECT01_二重积分方法选择/学生卷.md",
@@ -388,13 +393,13 @@
     },
     {
       "path": "题库/LA_空间到方程_10题/22_线代空间到方程_10题.md",
-      "bytes": 3817,
-      "sha256": "a0e9fbcd74a64e949b55ee4edce7a3b9392df934170a26448c807ef3199a047d"
+      "bytes": 3719,
+      "sha256": "82731b3841da2836d6bcae2d98267b254142e6e62e995e54b3c27c424a749375"
     },
     {
       "path": "题库/MV0915_多元微积分检测/25_20260915_八题检测卷.md",
-      "bytes": 3154,
-      "sha256": "06831667bc6c9a3304e5afb6bdd58267f1fbb3e34b10b722ea2af880e0cbf4f5",
+      "bytes": 3055,
+      "sha256": "d73fc1af21c48dc72b122ddb0f17bf329b23630869e1c601f2812209ccbcffbf",
       "previous_repository_path": "25_20260915_八题检测卷.md"
     },
     {
@@ -409,8 +414,8 @@
     },
     {
       "path": "题库/MV26_多元微积分水平检测/21_多元微积分_水平检测卷.md",
-      "bytes": 3871,
-      "sha256": "38143683aaf1bccbc96c92530266cd97378d5c76ed2eee6e0cdc30dd022a9652"
+      "bytes": 3748,
+      "sha256": "827b694c1df99dad94a643bf504178ab2a8e8132938963a90b133bd5f512469b"
     },
     {
       "path": "题库/MVCLOSE01_多元微积分收尾混合复习/学生卷.md",
@@ -419,8 +424,8 @@
     },
     {
       "path": "题库/SERIESSTAGE01_无穷级数阶段题组/学生卷.md",
-      "bytes": 1941,
-      "sha256": "d97049e989472e9d706aef9c284847d2d0d884533d4412803ed2423ef222b2d9"
+      "bytes": 1890,
+      "sha256": "78c55923a33362679c70a70b9f04c4797be24361452eb862253ce0d8d358f52a"
     }
   ],
   "protocol_versions": {
@@ -440,5 +445,6 @@
   "source_global_alias_type": "Junction",
   "canonical_repository": "https://github.com/yy11111111111111111111/kaoyan-math1-learning",
   "branch_policy": "use the branch explicitly supplied by the user; local source directories are not synchronized automatically",
-  "organization_base_commit": "fcbbe8a121af255c3574e947450f978b5e3dd5cd"
+  "organization_base_commit": "fcbbe8a121af255c3574e947450f978b5e3dd5cd",
+  "hash_normalization": "crlf-to-lf-v1"
 }

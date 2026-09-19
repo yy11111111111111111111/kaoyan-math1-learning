@@ -11,6 +11,10 @@
 """
 import glob, hashlib, json, os, re, sys
 
+for stream in (sys.stdout, sys.stderr):
+    if hasattr(stream, "reconfigure"):
+        stream.reconfigure(encoding="utf-8")
+
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 ERR, WARN = [], []
 def err(where, msg): ERR.append((where, msg))
@@ -101,6 +105,7 @@ for f in [x for x in files if x.endswith(".md")]:
     d = os.path.dirname(f) or "."
     for mo in REF.finditer(open(f, encoding="utf-8").read()):
         ref = mo.group(1)
+        if ref == "YYYY-MM.md": continue  # 月度记录格式示例，不是具体文件
         if ref.startswith(("http", "分析/", "练习/")): continue
         if any(c in ref for c in "<>*…") or "..." in ref: continue   # 占位与通配不检查
         if os.path.normpath(os.path.join(d, ref)) in allp: continue
@@ -112,14 +117,23 @@ for f in [x for x in files if x.endswith(".md")]:
 
 # 6. 校验清单与磁盘一致
 man = json.load(open("校验清单.json", encoding="utf-8"))
+hash_mode = man.get("hash_normalization", "raw-bytes")
+if hash_mode not in ("raw-bytes", "crlf-to-lf-v1"):
+    err("校验清单.json", f"未知哈希归一化方式：{hash_mode}")
 listed = {e["path"].replace("\\", "/") for e in man["files"]}
 disk = {p.replace("\\", "/") for p in glob.glob("**/*.md", recursive=True)}
 for p in sorted(disk - listed): err("校验清单.json", f"未登记：{p}")
 for p in sorted(listed - disk): err("校验清单.json", f"登记了不存在的文件：{p}")
 for e in man["files"]:
-    if e["path"] in disk:
-        if hashlib.sha256(open(e["path"], "rb").read()).hexdigest() != e["sha256"]:
+    path = e["path"].replace("\\", "/")
+    if path in disk:
+        blob = open(path, "rb").read()
+        if hash_mode == "crlf-to-lf-v1":
+            blob = blob.replace(b"\r\n", b"\n")
+        if hashlib.sha256(blob).hexdigest() != e["sha256"]:
             err("校验清单.json", f"哈希过期：{e['path']}")
+        if e.get("bytes") != len(blob):
+            err("校验清单.json", f"字节数过期：{e['path']}")
 if any("校验清单" in w for w, _ in ERR):
     ERR.append(("校验清单.json", "跑 python 98_刷新校验清单.py 即可修好上面的清单项"))
 
