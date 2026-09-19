@@ -18,7 +18,12 @@ if not os.path.exists(MANIFEST):
     sys.exit(f"找不到 {MANIFEST}，请在仓库根目录运行")
 
 data = json.load(open(MANIFEST, encoding="utf-8"))
-on_disk = sorted(glob.glob("**/*.md", recursive=True))
+on_disk = sorted(p.replace("\\", "/") for p in glob.glob("**/*.md", recursive=True))
+normalized = {}
+for entry in data.get("files", []):
+    entry["path"] = entry["path"].replace("\\", "/")
+    normalized.setdefault(entry["path"], {}).update(entry)
+data["files"] = list(normalized.values())
 listed = {e["path"] for e in data.get("files", [])}
 
 added = [p for p in on_disk if p not in listed]
