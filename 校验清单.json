@@ -76,6 +76,31 @@
       "sha256": "e6c7a7d9bbf03441bb062d265161196b4a755bd10c547605f08da1e344219411"
     },
     {
+      "path": "22_多元微积分检测_解析与个人点评.md",
+      "bytes": 13814,
+      "sha256": "9197ce400df7acd4e0998efdaeb48c32afa3186c43c23b4974156e023d7a0163"
+    },
+    {
+      "path": "23_教学AI_启动提示词.md",
+      "bytes": 888,
+      "sha256": "2ac976f270c583f5ea337ee9e119455c6c7eca702bcc033229b3e06f34d474df"
+    },
+    {
+      "path": "24_20260915_学习状态增量.md",
+      "bytes": 12664,
+      "sha256": "a75607d204981c411e22a15da4d5d965faf355f3614f3fc3e2f41fbb1eee54b9"
+    },
+    {
+      "path": "25_20260915_八题检测卷.md",
+      "bytes": 3127,
+      "sha256": "ef8df51259686135cc9fab635a1e4ca0cbc2ec4d48d3dcf2775fff6b6d1ddec2"
+    },
+    {
+      "path": "26_20260915_出题说明.md",
+      "bytes": 898,
+      "sha256": "d8a81ac5c631e0a116b9975e3544632ff8137faa6c660b3e0c2b2ca4303eca1f"
+    },
+    {
       "path": "40_跨AI任务与反馈交接.md",
       "bytes": 5649,
       "sha256": "cf0bfcc04611e5d3d57ee7a169a5a8cb7cf61ea04a4a1e64b885f7c3a4ee0080"
@@ -142,8 +167,8 @@
     },
     {
       "path": "学情/20_多元微积分复习路线.md",
-      "bytes": 13773,
-      "sha256": "50df752ee1b9e1a7e0e815e0508c4ad6a9b4d17d0f5975e6f605a879ebcdbfff"
+      "bytes": 17923,
+      "sha256": "ec522fe3aa9ffbceb92d0044f9be2904dc9f59d27d8153bde12d21668c4065d4"
     },
     {
       "path": "学情/30_考研数学一_当前学习状态.md",
@@ -237,5 +262,6 @@
     "research_document_read": false
   },
   "protocol_revision_backup": "C:\\Users\\欧阳佳杰\\.codex\\config-backups\\math-protocol-v110-20260906",
-  "revision_note": "2026-09-10 external review of MV26 items; 2026-09-11 linear-algebra batch merged in from kaoyan-math1-papers 01c9d13; 2026-09-11 repository regrouped: root keeps entries, item-generation protocols and maintenance, content moved into 题库/审查/解析/学情/复习记录/资料 (filenames unchanged, in-package references rewritten)"
+  "revision_note": "2026-09-10 external review of MV26 items; 2026-09-11 linear-algebra batch merged in from kaoyan-math1-papers 01c9d13; 2026-09-11 repository regrouped: root keeps entries, item-generation protocols and maintenance, content moved into 题库/审查/解析/学情/复习记录/资料 (filenames unchanged, in-package references rewritten)",
+  "hash_normalization": "crlf-to-lf-v1"
 }
