@@ -89,8 +89,8 @@
     },
     {
       "path": "42_教学agent提示词.md",
-      "bytes": 15101,
-      "sha256": "07d25dd9053dc9ae2ea93b867f0cfda0f9a5b603d4302b1d67f5f5d36a46ca5d"
+      "bytes": 15647,
+      "sha256": "bcd09f4e55a707a814233563a5447d0c65b29bb70d00c71b06c0077b0a44de91"
     },
     {
       "path": "43_三科学情连接与流程优化.md",
@@ -99,8 +99,8 @@
     },
     {
       "path": "90_考研数学一_质量风险与维护记录.md",
-      "bytes": 18474,
-      "sha256": "a21377ef8d87bb3ec8e20a7d667384503f8f5dd849d8c16ceb641f83168a5129"
+      "bytes": 18818,
+      "sha256": "37f41a346285f61f59d941e71d3f9e257b38a446876a10b00b5cc431b9743bce"
     },
     {
       "path": "91_出题协议_修订记录.md",
@@ -114,8 +114,8 @@
     },
     {
       "path": "99_工作包文件与版本清单.md",
-      "bytes": 18886,
-      "sha256": "835a6733f63f7f574e172ea6c301dac358421ea52169606c5f76b1f700386fdb"
+      "bytes": 19275,
+      "sha256": "eaf13105f43c1663b8a4285d445faf933676d40a32ca88830496c96d4d1b6b36"
     },
     {
       "path": "AGENTS.md",
@@ -129,8 +129,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 8329,
-      "sha256": "ea42b3eb4d5db2bbea573e8de1b88998f3b8cab1ae624ce106de3f758bd9baeb"
+      "bytes": 8554,
+      "sha256": "71a7cff7183665a008ae3f866561fb15fffc7b3c60a796fb5c509ed5e31732f1"
     },
     {
       "path": "全局入口.md",
@@ -189,8 +189,8 @@
     },
     {
       "path": "学情/20_多元微积分复习路线.md",
-      "bytes": 35166,
-      "sha256": "7c58dba0498d15331232de2f62087d7daf45b42ebf674a1de3b0c9f6d04e4109"
+      "bytes": 35767,
+      "sha256": "44cf5e697663d0a5dbf2fb33c299ceb2b45337aa39a5a6c74d8f63274434b887"
     },
     {
       "path": "学情/23_教学AI_启动提示词.md",
@@ -212,8 +212,8 @@
     },
     {
       "path": "学情/30_考研数学一_当前学习状态.md",
-      "bytes": 27557,
-      "sha256": "26e6a5b0fe5b755be0d2df479787887d99a85f7bb255dcb6d45a156a295121df"
+      "bytes": 28269,
+      "sha256": "026fdeebdda7892aac489ea021b9744b19654476f3f826b13404bd86f16d5484"
     },
     {
       "path": "学情/31_水平检测_作答后教学衔接.md",
@@ -229,6 +229,11 @@
       "path": "审查/DICALC01_高难完整计算/审查交接与StageA.md",
       "bytes": 11725,
       "sha256": "97a9d3895b19523071794a53d63e384124a16a07728fb468061f06b1becfd2b5"
+    },
+    {
+      "path": "审查/DIIMPROPER01_反常二重积分与可积性/审查交接与StageA.md",
+      "bytes": 20477,
+      "sha256": "496ffed52b0483625e760ab5bb1784366b8a67c3ed37d60af51ae3009ef1eb8e"
     },
     {
       "path": "审查/DISELECT01_二重积分方法选择/审查交接与StageA.md",
@@ -289,6 +294,11 @@
       "path": "解析/DICALC01_高难完整计算/封存设计声明_无答案.md",
       "bytes": 2800,
       "sha256": "4ad17ffbed9cb6276cce17f421acd4124bd1cd1688f21cbf882afcbc15098d6a"
+    },
+    {
+      "path": "解析/DIIMPROPER01_反常二重积分与可积性/封存设计声明_无答案.md",
+      "bytes": 4495,
+      "sha256": "30ca5e6016d0499528c7f5ec002128a28f4e88f979fe29432d238f4ad4d4d0b5"
     },
     {
       "path": "解析/DISELECT01_二重积分方法选择/封存设计声明_无答案.md",
@@ -360,6 +370,11 @@
       "path": "题库/DICALC01_高难完整计算/学生卷.md",
       "bytes": 1215,
       "sha256": "911458e6aae9780733f3e03398caa0f55018f4632f88a5cc867cabe6f15387d4"
+    },
+    {
+      "path": "题库/DIIMPROPER01_反常二重积分与可积性/学生卷.md",
+      "bytes": 2934,
+      "sha256": "5f5aabc204b01ca0c3053ec76a063bc5ba2c701835e4db05cfc0216d14f3ae93"
     },
     {
       "path": "题库/DISELECT01_二重积分方法选择/学生卷.md",
