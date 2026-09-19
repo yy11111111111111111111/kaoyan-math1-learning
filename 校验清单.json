@@ -89,8 +89,8 @@
     },
     {
       "path": "42_教学agent提示词.md",
-      "bytes": 14604,
-      "sha256": "8dcc0d3acdf90d6595a007bf5dc3928bd0918011822a5071837a2b86146a7ee1"
+      "bytes": 15101,
+      "sha256": "07d25dd9053dc9ae2ea93b867f0cfda0f9a5b603d4302b1d67f5f5d36a46ca5d"
     },
     {
       "path": "43_三科学情连接与流程优化.md",
@@ -99,8 +99,8 @@
     },
     {
       "path": "90_考研数学一_质量风险与维护记录.md",
-      "bytes": 17531,
-      "sha256": "41dcbacef22677a91da4de7c112dc129f87274864b677e3b918a333093bcd7c0"
+      "bytes": 18087,
+      "sha256": "ce24dd038705907ead25d9fb92548999831ad913649d062eeb30f4471d3251a8"
     },
     {
       "path": "91_出题协议_修订记录.md",
@@ -114,8 +114,8 @@
     },
     {
       "path": "99_工作包文件与版本清单.md",
-      "bytes": 17594,
-      "sha256": "e734415f87139915f9ad97f0c06a3efd12521c0ef3cb516fabb6c0487825e635"
+      "bytes": 18609,
+      "sha256": "0815c77250e4114f8278d73ffcadc7481f9175d2c3a221bff40bdb0e8f06dda0"
     },
     {
       "path": "AGENTS.md",
@@ -129,8 +129,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 7947,
-      "sha256": "0e200a45ae6fd286d5cf4d4cde71354d2d34cc52f692612ed935a3fc37b6569d"
+      "bytes": 8329,
+      "sha256": "ea42b3eb4d5db2bbea573e8de1b88998f3b8cab1ae624ce106de3f758bd9baeb"
     },
     {
       "path": "全局入口.md",
@@ -189,8 +189,8 @@
     },
     {
       "path": "学情/20_多元微积分复习路线.md",
-      "bytes": 34770,
-      "sha256": "579bb8e06c36a5e927a4e5fe1c2a5c91d98950e6d0f9e921c49a147b65687c62"
+      "bytes": 35166,
+      "sha256": "7c58dba0498d15331232de2f62087d7daf45b42ebf674a1de3b0c9f6d04e4109"
     },
     {
       "path": "学情/23_教学AI_启动提示词.md",
@@ -212,8 +212,8 @@
     },
     {
       "path": "学情/30_考研数学一_当前学习状态.md",
-      "bytes": 26716,
-      "sha256": "823bb50634edb5fe06e846fb6151d82b95b6087e37dcf9aa74b41eda11a79421"
+      "bytes": 27557,
+      "sha256": "26e6a5b0fe5b755be0d2df479787887d99a85f7bb255dcb6d45a156a295121df"
     },
     {
       "path": "学情/31_水平检测_作答后教学衔接.md",
@@ -264,6 +264,11 @@
       "path": "审查/MVCLOSE01_多元微积分收尾混合复习/审查交接与StageA.md",
       "bytes": 18788,
       "sha256": "b1eda143b747216fd808855dc95a06d401966f34b9ee056de58a04473f843ffa"
+    },
+    {
+      "path": "审查/SERIESSTAGE01_无穷级数阶段题组/审查交接与StageA.md",
+      "bytes": 11933,
+      "sha256": "be798bd28640c293b2fbc405b561c4b7614da5701a6ea463072ec8b04668f426"
     },
     {
       "path": "数学出题_共享声明集.md",
@@ -332,6 +337,11 @@
       "sha256": "6742fd76eabda030826047448effccbdb4a69c89ed66f08ca4b157b166658c42"
     },
     {
+      "path": "解析/SERIESSTAGE01_无穷级数阶段题组/封存设计声明_无答案.md",
+      "bytes": 3078,
+      "sha256": "804d827ab4a24d4e1a6c07be80ae0f2ee99701611472d9225109ca0d98017ca8"
+    },
+    {
       "path": "资料/10_高等数学_资料与覆盖索引.md",
       "bytes": 30098,
       "sha256": "3ca6bad3402e5a311de31a3d992ea079dc83ffc5a250ed9d57abe1e54fbb82df"
@@ -391,6 +401,11 @@
       "path": "题库/MVCLOSE01_多元微积分收尾混合复习/学生卷.md",
       "bytes": 3191,
       "sha256": "a4971bb2da56a2a5b45c517f7b12c131b79e500914aba47aff5acc2ebe8bd4c4"
+    },
+    {
+      "path": "题库/SERIESSTAGE01_无穷级数阶段题组/学生卷.md",
+      "bytes": 1941,
+      "sha256": "d97049e989472e9d706aef9c284847d2d0d884533d4412803ed2423ef222b2d9"
     }
   ],
   "protocol_versions": {
